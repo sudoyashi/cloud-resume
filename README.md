@@ -2,6 +2,15 @@
 
 Following the guide from Microsoft: [Host a static website in Azure Storage](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website-how-to?tabs=azure-portal) using Powershell.
 
+## To do list
+- [X] Setup base HTML/CSS website
+- [ ] Plan resume website layout, based on limiations of website. Do not over-engineer.
+- [ ] Add resume information
+- [ ] Add CDN
+- [ ] Connect GitHub repo to Azure Web App
+- [ ] Purchase or link to jekyll website?
+- [ ] Setup HTTPS
+
 ```powershell
 # Login to Azure
 Connect-AzAccount
